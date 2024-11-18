@@ -26,6 +26,8 @@
 #include <ps5/kernel_offsets/offsets_450.h>
 #elif PS5_FW_VERSION == 0x451
 #include <ps5/kernel_offsets/offsets_451.h>
+#elif PS5_FW_VERSION == 0x550
+#include <ps5/kernel_offsets/offsets_550.h>
 #else
 #error SDK does not support this kernel version for kernel hacking.
 #endif // PS5_FW_VERSION
