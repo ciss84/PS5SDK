@@ -1,6 +1,6 @@
 /*****************************************************
  * PS5 SDK - 5.50 Kernel Offsets
- * Contains offsets for 4.51.
+ * Contains offsets for 5.50.
  ****************************************************/
 
 #ifndef PS5SDK_KERNEL_OFFSETS_550_H
